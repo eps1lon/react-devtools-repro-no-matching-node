@@ -1,6 +1,6 @@
 
 
-# react-devtools 'cannot remove node "5" ...' repro
+# react-devtools children list growing indefinitely
 
 1. Clone repro
 1. yarn
