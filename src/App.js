@@ -2,9 +2,7 @@ import { useEffect } from "react";
 
 function Component() {
   console.warn("render");
-  // useEffect(() => {
-  //   console.error("effect");
-  // });
+  // useEffect(() => {});
   return null;
 }
 
